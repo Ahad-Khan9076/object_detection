@@ -5,7 +5,7 @@ import 'package:object_detection_translator/pages/ml_kit.dart';
 
 void main() {
   Gemini.init(
-    apiKey: "AIzaSyACVefPsjggZ_q7UkdoITFa6f8mqyEpNHQ",
+    apiKey: '',
   );
   runApp(const MyApp());
 }
